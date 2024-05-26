@@ -1,7 +1,1 @@
-
-
-
-class python():
-    print("helllo world")
-
-python()
+print("hello world")
